@@ -1,0 +1,562 @@
+[
+  {
+    "accountId": "A1001",
+    "customerId": "C1001",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1002",
+    "customerId": "C1001",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1003",
+    "customerId": "C1002",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1004",
+    "customerId": "C1002",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1005",
+    "customerId": "C1003",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1006",
+    "customerId": "C1003",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1007",
+    "customerId": "C1004",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1008",
+    "customerId": "C1004",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1009",
+    "customerId": "C1005",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1010",
+    "customerId": "C1005",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1011",
+    "customerId": "C1006",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1012",
+    "customerId": "C1006",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1013",
+    "customerId": "C1007",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1014",
+    "customerId": "C1007",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1015",
+    "customerId": "C1008",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1016",
+    "customerId": "C1008",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1017",
+    "customerId": "C1009",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1018",
+    "customerId": "C1009",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1019",
+    "customerId": "C1010",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1020",
+    "customerId": "C1010",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1021",
+    "customerId": "C1011",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1022",
+    "customerId": "C1011",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1023",
+    "customerId": "C1012",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1024",
+    "customerId": "C1012",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1025",
+    "customerId": "C1013",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1026",
+    "customerId": "C1013",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1027",
+    "customerId": "C1014",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1028",
+    "customerId": "C1014",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1029",
+    "customerId": "C1015",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1030",
+    "customerId": "C1015",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1031",
+    "customerId": "C1016",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1032",
+    "customerId": "C1016",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1033",
+    "customerId": "C1017",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1034",
+    "customerId": "C1017",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1035",
+    "customerId": "C1018",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1036",
+    "customerId": "C1018",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1037",
+    "customerId": "C1019",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1038",
+    "customerId": "C1019",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1039",
+    "customerId": "C1020",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1040",
+    "customerId": "C1020",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1041",
+    "customerId": "C1021",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1042",
+    "customerId": "C1022",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1043",
+    "customerId": "C1023",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1044",
+    "customerId": "C1024",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1045",
+    "customerId": "C1025",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1046",
+    "customerId": "C1026",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1047",
+    "customerId": "C1027",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1048",
+    "customerId": "C1028",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1049",
+    "customerId": "C1029",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1050",
+    "customerId": "C1030",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1051",
+    "customerId": "C1031",
+    "accountType": "PREPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1052",
+    "customerId": "C1032",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1053",
+    "customerId": "C1033",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1054",
+    "customerId": "C1034",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1055",
+    "customerId": "C1035",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1056",
+    "customerId": "C1036",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1057",
+    "customerId": "C1037",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1058",
+    "customerId": "C1038",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1059",
+    "customerId": "C1039",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1060",
+    "customerId": "C1040",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1061",
+    "customerId": "C1041",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1062",
+    "customerId": "C1042",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1063",
+    "customerId": "C1043",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1064",
+    "customerId": "C1044",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1065",
+    "customerId": "C1045",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1066",
+    "customerId": "C1046",
+    "accountType": "POSTPAID",
+    "status": "ACTIVE",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1067",
+    "customerId": "C1047",
+    "accountType": "POSTPAID",
+    "status": "SUSPENDED",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1068",
+    "customerId": "C1048",
+    "accountType": "POSTPAID",
+    "status": "SUSPENDED",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1069",
+    "customerId": "C1049",
+    "accountType": "POSTPAID",
+    "status": "CLOSED",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  },
+  {
+    "accountId": "A1070",
+    "customerId": "C1050",
+    "accountType": "POSTPAID",
+    "status": "CLOSED",
+    "billingCycle": "MONTHLY",
+    "currency": "USD"
+  }
+]

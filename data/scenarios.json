@@ -1,0 +1,227 @@
+[
+  {
+    "scenarioId": "SC001",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1005",
+    "accountId": "A1010",
+    "billId": "B10008",
+    "complaint": "Why is my bill higher this month?",
+    "expectedRootCause": "Late-rated roaming event",
+    "expectedOutcome": "A roaming event occurred in the previous billing period but was rated and billed in the current billing period.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC002",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1001",
+    "accountId": "A1002",
+    "billId": "B10001",
+    "complaint": "My bill is higher than usual. Did I use more data this month?",
+    "expectedRootCause": "Increased usage",
+    "expectedOutcome": "Usage charges increased compared with the previous bill.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC003",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1002",
+    "accountId": "A1003",
+    "billId": "B10002",
+    "complaint": "I was charged for a service I recently added. Why did my bill increase?",
+    "expectedRootCause": "New subscription charge",
+    "expectedOutcome": "A newly active subscription contributed a recurring charge to the bill.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC004",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1002",
+    "accountId": "A1004",
+    "billId": "B10003",
+    "complaint": "My discount is no longer showing on my bill. What happened?",
+    "expectedRootCause": "Expired discount",
+    "expectedOutcome": "A previously applied discount is no longer applicable for the current billing period.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC005",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1003",
+    "accountId": "A1005",
+    "billId": "B10004",
+    "complaint": "There is an extra charge on my bill that I was not expecting.",
+    "expectedRootCause": "One-time charge",
+    "expectedOutcome": "A non-recurring charge was added to the current bill.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC006",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1004",
+    "accountId": "A1007",
+    "billId": "B10005",
+    "complaint": "Why did the tax amount on my bill increase?",
+    "expectedRootCause": "Tax increase",
+    "expectedOutcome": "The tax component increased and contributed to the higher bill.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC007",
+    "scenarioType": "BILLING_ERROR",
+    "customerId": "C1004",
+    "accountId": "A1008",
+    "billId": "B10006",
+    "complaint": "I think I have been charged twice for the same service.",
+    "expectedRootCause": "Duplicate charge",
+    "expectedOutcome": "Two bill items representing the same charge need to be identified and investigated.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC008",
+    "scenarioType": "BILLING_VERIFICATION",
+    "customerId": "C1005",
+    "accountId": "A1009",
+    "billId": "B10007",
+    "complaint": "My bill looks higher, but I want to know if the charges are actually correct.",
+    "expectedRootCause": "No billing issue",
+    "expectedOutcome": "The bill increase is supported by valid charges and no discrepancy is identified.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC009",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1005",
+    "accountId": "A1010",
+    "billId": "B10008",
+    "complaint": "My bill increased significantly. Can you identify everything that caused the increase?",
+    "expectedRootCause": "Multiple billing causes",
+    "expectedOutcome": "The agent should identify more than one contributing charge, such as usage and roaming.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC010",
+    "scenarioType": "INVESTIGATION_LIMITATION",
+    "customerId": "C1006",
+    "accountId": "A1012",
+    "billId": "B10009",
+    "complaint": "Why is my bill higher? I do not have any other information.",
+    "expectedRootCause": "Insufficient information",
+    "expectedOutcome": "The agent should request additional information or perform a limited investigation rather than invent a cause.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC011",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1007",
+    "accountId": "A1013",
+    "billId": "B10010",
+    "complaint": "Why am I seeing roaming charges on my bill?",
+    "expectedRootCause": "Roaming usage",
+    "expectedOutcome": "The agent should identify the roaming events and provide their event and billing details.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC012",
+    "scenarioType": "BILLING_VERIFICATION",
+    "customerId": "C1007",
+    "accountId": "A1014",
+    "billId": "B10011",
+    "complaint": "Can you compare this bill with my previous bill and tell me what changed?",
+    "expectedRootCause": "Bill comparison required",
+    "expectedOutcome": "The agent should compare billing periods and identify the material differences.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC013",
+    "scenarioType": "BILLING_INCREASE",
+    "customerId": "C1008",
+    "accountId": "A1015",
+    "billId": "B10012",
+    "complaint": "Why are my usage charges higher than last month?",
+    "expectedRootCause": "Higher usage charges",
+    "expectedOutcome": "The agent should inspect usage events and explain the increase using the underlying event data.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC014",
+    "scenarioType": "BILLING_ERROR",
+    "customerId": "C1009",
+    "accountId": "A1017",
+    "billId": "B10013",
+    "complaint": "I do not recognize one of the charges on my bill.",
+    "expectedRootCause": "Unrecognized charge",
+    "expectedOutcome": "The agent should trace the bill item to its related product or event and explain the charge or flag it for CSR review.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  },
+  {
+    "scenarioId": "SC015",
+    "scenarioType": "HUMAN_REVIEW",
+    "customerId": "C1009",
+    "accountId": "A1018",
+    "billId": "B10014",
+    "complaint": "This bill seems incorrect and I want someone to verify it.",
+    "expectedRootCause": "Human review required",
+    "expectedOutcome": "The agent should investigate available evidence and escalate when it cannot establish a reliable root cause.",
+    "evaluation": {
+      "agentMustProvideEvidence": true,
+      "agentMustNotInventData": true,
+      "humanReviewAllowed": true
+    }
+  }
+]

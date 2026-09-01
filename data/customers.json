@@ -1,0 +1,902 @@
+[
+  {
+    "customerId": "C1001",
+    "firstName": "John",
+    "lastName": "Anderson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "john.anderson1@example.com",
+      "phone": "+1-555-1001"
+    },
+    "address": {
+      "addressLine1": "101 Main Street",
+      "city": "Dallas",
+      "state": "TX",
+      "postalCode": "75201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1002",
+    "firstName": "Emma",
+    "lastName": "Brown",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "emma.brown2@example.com",
+      "phone": "+1-555-1002"
+    },
+    "address": {
+      "addressLine1": "102 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1003",
+    "firstName": "Michael",
+    "lastName": "Carter",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "michael.carter3@example.com",
+      "phone": "+1-555-1003"
+    },
+    "address": {
+      "addressLine1": "103 Main Street",
+      "city": "Houston",
+      "state": "TX",
+      "postalCode": "77001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1004",
+    "firstName": "Sophia",
+    "lastName": "Davis",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "sophia.davis4@example.com",
+      "phone": "+1-555-1004"
+    },
+    "address": {
+      "addressLine1": "104 Main Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1005",
+    "firstName": "David",
+    "lastName": "Evans",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "david.evans5@example.com",
+      "phone": "+1-555-1005"
+    },
+    "address": {
+      "addressLine1": "105 Main Street",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1006",
+    "firstName": "Olivia",
+    "lastName": "Garcia",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "olivia.garcia6@example.com",
+      "phone": "+1-555-1006"
+    },
+    "address": {
+      "addressLine1": "106 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1007",
+    "firstName": "James",
+    "lastName": "Harris",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "james.harris7@example.com",
+      "phone": "+1-555-1007"
+    },
+    "address": {
+      "addressLine1": "107 Main Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1008",
+    "firstName": "Ava",
+    "lastName": "Johnson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "ava.johnson8@example.com",
+      "phone": "+1-555-1008"
+    },
+    "address": {
+      "addressLine1": "108 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02108",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1009",
+    "firstName": "Robert",
+    "lastName": "King",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "robert.king9@example.com",
+      "phone": "+1-555-1009"
+    },
+    "address": {
+      "addressLine1": "109 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "postalCode": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1010",
+    "firstName": "Mia",
+    "lastName": "Lewis",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "mia.lewis10@example.com",
+      "phone": "+1-555-1010"
+    },
+    "address": {
+      "addressLine1": "110 Main Street",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1011",
+    "firstName": "William",
+    "lastName": "Martin",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "william.martin11@example.com",
+      "phone": "+1-555-1011"
+    },
+    "address": {
+      "addressLine1": "111 Main Street",
+      "city": "Dallas",
+      "state": "TX",
+      "postalCode": "75201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1012",
+    "firstName": "Isabella",
+    "lastName": "Miller",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "isabella.miller12@example.com",
+      "phone": "+1-555-1012"
+    },
+    "address": {
+      "addressLine1": "112 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1013",
+    "firstName": "Daniel",
+    "lastName": "Moore",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "daniel.moore13@example.com",
+      "phone": "+1-555-1013"
+    },
+    "address": {
+      "addressLine1": "113 Main Street",
+      "city": "Houston",
+      "state": "TX",
+      "postalCode": "77001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1014",
+    "firstName": "Emily",
+    "lastName": "Nelson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "emily.nelson14@example.com",
+      "phone": "+1-555-1014"
+    },
+    "address": {
+      "addressLine1": "114 Main Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1015",
+    "firstName": "Matthew",
+    "lastName": "Parker",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "matthew.parker15@example.com",
+      "phone": "+1-555-1015"
+    },
+    "address": {
+      "addressLine1": "115 Main Street",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1016",
+    "firstName": "Charlotte",
+    "lastName": "Roberts",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "charlotte.roberts16@example.com",
+      "phone": "+1-555-1016"
+    },
+    "address": {
+      "addressLine1": "116 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1017",
+    "firstName": "Joseph",
+    "lastName": "Smith",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "joseph.smith17@example.com",
+      "phone": "+1-555-1017"
+    },
+    "address": {
+      "addressLine1": "117 Main Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1018",
+    "firstName": "Amelia",
+    "lastName": "Taylor",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "amelia.taylor18@example.com",
+      "phone": "+1-555-1018"
+    },
+    "address": {
+      "addressLine1": "118 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02108",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1019",
+    "firstName": "Christopher",
+    "lastName": "Thomas",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "christopher.thomas19@example.com",
+      "phone": "+1-555-1019"
+    },
+    "address": {
+      "addressLine1": "119 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "postalCode": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1020",
+    "firstName": "Harper",
+    "lastName": "Walker",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "harper.walker20@example.com",
+      "phone": "+1-555-1020"
+    },
+    "address": {
+      "addressLine1": "120 Main Street",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1021",
+    "firstName": "Andrew",
+    "lastName": "White",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "andrew.white21@example.com",
+      "phone": "+1-555-1021"
+    },
+    "address": {
+      "addressLine1": "121 Main Street",
+      "city": "Dallas",
+      "state": "TX",
+      "postalCode": "75201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1022",
+    "firstName": "Evelyn",
+    "lastName": "Wilson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "evelyn.wilson22@example.com",
+      "phone": "+1-555-1022"
+    },
+    "address": {
+      "addressLine1": "122 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1023",
+    "firstName": "Joshua",
+    "lastName": "Adams",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "joshua.adams23@example.com",
+      "phone": "+1-555-1023"
+    },
+    "address": {
+      "addressLine1": "123 Main Street",
+      "city": "Houston",
+      "state": "TX",
+      "postalCode": "77001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1024",
+    "firstName": "Abigail",
+    "lastName": "Baker",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "abigail.baker24@example.com",
+      "phone": "+1-555-1024"
+    },
+    "address": {
+      "addressLine1": "124 Main Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1025",
+    "firstName": "Ryan",
+    "lastName": "Clark",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "ryan.clark25@example.com",
+      "phone": "+1-555-1025"
+    },
+    "address": {
+      "addressLine1": "125 Main Street",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1026",
+    "firstName": "Ella",
+    "lastName": "Collins",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "ella.collins26@example.com",
+      "phone": "+1-555-1026"
+    },
+    "address": {
+      "addressLine1": "126 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1027",
+    "firstName": "Nicholas",
+    "lastName": "Cooper",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "nicholas.cooper27@example.com",
+      "phone": "+1-555-1027"
+    },
+    "address": {
+      "addressLine1": "127 Main Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1028",
+    "firstName": "Scarlett",
+    "lastName": "Edwards",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "scarlett.edwards28@example.com",
+      "phone": "+1-555-1028"
+    },
+    "address": {
+      "addressLine1": "128 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02108",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1029",
+    "firstName": "Thomas",
+    "lastName": "Foster",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "thomas.foster29@example.com",
+      "phone": "+1-555-1029"
+    },
+    "address": {
+      "addressLine1": "129 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "postalCode": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1030",
+    "firstName": "Grace",
+    "lastName": "Green",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "grace.green30@example.com",
+      "phone": "+1-555-1030"
+    },
+    "address": {
+      "addressLine1": "130 Main Street",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1031",
+    "firstName": "Benjamin",
+    "lastName": "Hall",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "benjamin.hall31@example.com",
+      "phone": "+1-555-1031"
+    },
+    "address": {
+      "addressLine1": "131 Main Street",
+      "city": "Dallas",
+      "state": "TX",
+      "postalCode": "75201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1032",
+    "firstName": "Chloe",
+    "lastName": "Hill",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "chloe.hill32@example.com",
+      "phone": "+1-555-1032"
+    },
+    "address": {
+      "addressLine1": "132 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1033",
+    "firstName": "Samuel",
+    "lastName": "Jackson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "samuel.jackson33@example.com",
+      "phone": "+1-555-1033"
+    },
+    "address": {
+      "addressLine1": "133 Main Street",
+      "city": "Houston",
+      "state": "TX",
+      "postalCode": "77001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1034",
+    "firstName": "Victoria",
+    "lastName": "Lee",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "victoria.lee34@example.com",
+      "phone": "+1-555-1034"
+    },
+    "address": {
+      "addressLine1": "134 Main Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1035",
+    "firstName": "Alexander",
+    "lastName": "Mitchell",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "alexander.mitchell35@example.com",
+      "phone": "+1-555-1035"
+    },
+    "address": {
+      "addressLine1": "135 Main Street",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1036",
+    "firstName": "Riley",
+    "lastName": "Morgan",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "riley.morgan36@example.com",
+      "phone": "+1-555-1036"
+    },
+    "address": {
+      "addressLine1": "136 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1037",
+    "firstName": "Henry",
+    "lastName": "Phillips",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "henry.phillips37@example.com",
+      "phone": "+1-555-1037"
+    },
+    "address": {
+      "addressLine1": "137 Main Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1038",
+    "firstName": "Lily",
+    "lastName": "Reed",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "lily.reed38@example.com",
+      "phone": "+1-555-1038"
+    },
+    "address": {
+      "addressLine1": "138 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02108",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1039",
+    "firstName": "Jacob",
+    "lastName": "Scott",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "jacob.scott39@example.com",
+      "phone": "+1-555-1039"
+    },
+    "address": {
+      "addressLine1": "139 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "postalCode": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1040",
+    "firstName": "Aria",
+    "lastName": "Turner",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "aria.turner40@example.com",
+      "phone": "+1-555-1040"
+    },
+    "address": {
+      "addressLine1": "140 Main Street",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1041",
+    "firstName": "Lucas",
+    "lastName": "Ward",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "lucas.ward41@example.com",
+      "phone": "+1-555-1041"
+    },
+    "address": {
+      "addressLine1": "141 Main Street",
+      "city": "Dallas",
+      "state": "TX",
+      "postalCode": "75201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1042",
+    "firstName": "Zoey",
+    "lastName": "Watson",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "zoey.watson42@example.com",
+      "phone": "+1-555-1042"
+    },
+    "address": {
+      "addressLine1": "142 Main Street",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "73301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1043",
+    "firstName": "Jack",
+    "lastName": "Wood",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "jack.wood43@example.com",
+      "phone": "+1-555-1043"
+    },
+    "address": {
+      "addressLine1": "143 Main Street",
+      "city": "Houston",
+      "state": "TX",
+      "postalCode": "77001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1044",
+    "firstName": "Nora",
+    "lastName": "Allen",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "nora.allen44@example.com",
+      "phone": "+1-555-1044"
+    },
+    "address": {
+      "addressLine1": "144 Main Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85001",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1045",
+    "firstName": "Leo",
+    "lastName": "Bell",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "leo.bell45@example.com",
+      "phone": "+1-555-1045"
+    },
+    "address": {
+      "addressLine1": "145 Main Street",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80201",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1046",
+    "firstName": "Hannah",
+    "lastName": "Campbell",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "hannah.campbell46@example.com",
+      "phone": "+1-555-1046"
+    },
+    "address": {
+      "addressLine1": "146 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1047",
+    "firstName": "Owen",
+    "lastName": "Cox",
+    "customerType": "INDIVIDUAL",
+    "status": "ACTIVE",
+    "contact": {
+      "email": "owen.cox47@example.com",
+      "phone": "+1-555-1047"
+    },
+    "address": {
+      "addressLine1": "147 Main Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1048",
+    "firstName": "Layla",
+    "lastName": "Diaz",
+    "customerType": "INDIVIDUAL",
+    "status": "INACTIVE",
+    "contact": {
+      "email": "layla.diaz48@example.com",
+      "phone": "+1-555-1048"
+    },
+    "address": {
+      "addressLine1": "148 Main Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02108",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1049",
+    "firstName": "Elijah",
+    "lastName": "Flores",
+    "customerType": "INDIVIDUAL",
+    "status": "INACTIVE",
+    "contact": {
+      "email": "elijah.flores49@example.com",
+      "phone": "+1-555-1049"
+    },
+    "address": {
+      "addressLine1": "149 Main Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "postalCode": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "customerId": "C1050",
+    "firstName": "Ellie",
+    "lastName": "Gray",
+    "customerType": "INDIVIDUAL",
+    "status": "INACTIVE",
+    "contact": {
+      "email": "ellie.gray50@example.com",
+      "phone": "+1-555-1050"
+    },
+    "address": {
+      "addressLine1": "150 Main Street",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": "33101",
+      "country": "USA"
+    }
+  }
+]
