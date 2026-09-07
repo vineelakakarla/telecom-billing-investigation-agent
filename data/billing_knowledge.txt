@@ -1,0 +1,34 @@
+Telecom Billing Knowledge
+
+Roaming Charges
+Roaming charges are generated when a customer uses telecom services outside
+their home network or country. These charges may include voice calls,
+SMS messages, and mobile data usage.
+
+Late-Rated Events
+A late-rated event is a usage event that occurred in an earlier billing
+period but was processed or rated later. The charge may therefore appear
+on the customer's current bill even though the usage happened previously.
+
+Higher Bill Investigation
+When a customer's bill is higher than the previous bill, the CSR should
+compare the bills and check usage charges, roaming charges, new subscriptions,
+discounts, taxes, one-time charges, and duplicate charges.
+
+Bill Comparison
+A bill comparison should identify changes in the bill total, individual
+bill items, usage quantity, applicable rates, discounts, taxes, and
+additional charges.
+
+Discount Expiration
+A bill may increase when a promotional discount or customer-specific
+discount expires.
+
+New Subscription
+A newly activated subscription may introduce a recurring charge or
+activation-related charge on the customer's bill.
+
+Human Review
+Human review is required when the available billing information is
+insufficient, the customer disputes an unrecognized charge, or the
+investigation cannot establish a reliable root cause.
