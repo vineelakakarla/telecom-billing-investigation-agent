@@ -11,7 +11,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100002"
   },
   {
     "eventId": "E20002",
@@ -25,7 +26,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 6.94,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100002"
   },
   {
     "eventId": "E20003",
@@ -39,7 +41,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 23.93,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100002"
   },
   {
     "eventId": "E20004",
@@ -53,7 +56,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100005"
   },
   {
     "eventId": "E20005",
@@ -67,7 +71,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.95,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100005"
   },
   {
     "eventId": "E20006",
@@ -81,7 +86,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 1.76,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100005"
   },
   {
     "eventId": "E20007",
@@ -95,7 +101,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.73,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100005"
   },
   {
     "eventId": "E20008",
@@ -109,7 +116,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.16,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100008"
   },
   {
     "eventId": "E20009",
@@ -123,7 +131,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100008"
   },
   {
     "eventId": "E20010",
@@ -137,7 +146,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.49,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100011"
   },
   {
     "eventId": "E20011",
@@ -151,7 +161,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.98,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100011"
   },
   {
     "eventId": "E20012",
@@ -165,7 +176,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.53,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100011"
   },
   {
     "eventId": "E20013",
@@ -179,7 +191,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.57,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100014"
   },
   {
     "eventId": "E20014",
@@ -193,7 +206,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 1.96,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100014"
   },
   {
     "eventId": "E20015",
@@ -207,7 +221,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 8.47,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100014"
   },
   {
     "eventId": "E20016",
@@ -221,7 +236,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 60.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100017"
   },
   {
     "eventId": "E20017",
@@ -235,7 +251,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100020"
   },
   {
     "eventId": "E20018",
@@ -249,7 +266,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 30.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100020"
   },
   {
     "eventId": "E20019",
@@ -263,7 +281,8 @@
     "billedDate": "2026-06-30",
     "description": "International roaming event",
     "amount": 558.3,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100023"
   },
   {
     "eventId": "E20020",
@@ -277,7 +296,8 @@
     "billedDate": "2026-06-30",
     "description": "International roaming event",
     "amount": 691.7,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100023"
   },
   {
     "eventId": "E20021",
@@ -291,7 +311,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 12.98,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100026"
   },
   {
     "eventId": "E20022",
@@ -305,7 +326,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 6.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100026"
   },
   {
     "eventId": "E20023",
@@ -319,7 +341,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 20.48,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100026"
   },
   {
     "eventId": "E20024",
@@ -333,7 +356,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 11.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100029"
   },
   {
     "eventId": "E20025",
@@ -347,7 +371,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 12.37,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100029"
   },
   {
     "eventId": "E20026",
@@ -361,7 +386,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.41,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100029"
   },
   {
     "eventId": "E20027",
@@ -375,7 +401,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 30.3,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100029"
   },
   {
     "eventId": "E20028",
@@ -389,7 +416,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 15.46,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100032"
   },
   {
     "eventId": "E20029",
@@ -403,7 +431,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 44.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100032"
   },
   {
     "eventId": "E20030",
@@ -417,7 +446,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 7.7,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100035"
   },
   {
     "eventId": "E20031",
@@ -431,7 +461,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 17.3,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100035"
   },
   {
     "eventId": "E20032",
@@ -445,7 +476,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 10.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100040"
   },
   {
     "eventId": "E20033",
@@ -459,7 +491,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.62,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100043"
   },
   {
     "eventId": "E20034",
@@ -473,7 +506,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100043"
   },
   {
     "eventId": "E20035",
@@ -487,7 +521,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.4,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100043"
   },
   {
     "eventId": "E20036",
@@ -501,7 +536,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.9,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100043"
   },
   {
     "eventId": "E20037",
@@ -515,7 +551,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 17.71,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100046"
   },
   {
     "eventId": "E20038",
@@ -529,7 +566,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 13.5,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100046"
   },
   {
     "eventId": "E20039",
@@ -543,7 +581,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 28.79,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100046"
   },
   {
     "eventId": "E20040",
@@ -557,7 +596,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.79,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100053"
   },
   {
     "eventId": "E20041",
@@ -571,7 +611,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.98,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100053"
   },
   {
     "eventId": "E20042",
@@ -585,7 +626,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 7.23,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100053"
   },
   {
     "eventId": "E20043",
@@ -599,7 +641,8 @@
     "billedDate": "2026-06-30",
     "description": "International roaming event",
     "amount": 450.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100054"
   },
   {
     "eventId": "E20044",
@@ -613,7 +656,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 1.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100059"
   },
   {
     "eventId": "E20045",
@@ -627,7 +671,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100059"
   },
   {
     "eventId": "E20046",
@@ -641,7 +686,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.88,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100059"
   },
   {
     "eventId": "E20047",
@@ -655,7 +701,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 0.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100062"
   },
   {
     "eventId": "E20048",
@@ -669,7 +716,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100062"
   },
   {
     "eventId": "E20049",
@@ -683,7 +731,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 0.75,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100065"
   },
   {
     "eventId": "E20050",
@@ -697,7 +746,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 0.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100065"
   },
   {
     "eventId": "E20051",
@@ -711,7 +761,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 3.51,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100065"
   },
   {
     "eventId": "E20052",
@@ -725,7 +776,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 0.94,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100068"
   },
   {
     "eventId": "E20053",
@@ -739,7 +791,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 4.06,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100068"
   },
   {
     "eventId": "E20054",
@@ -753,7 +806,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 1.62,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100071"
   },
   {
     "eventId": "E20055",
@@ -767,7 +821,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 1.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100071"
   },
   {
     "eventId": "E20056",
@@ -781,7 +836,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 2.25,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100071"
   },
   {
     "eventId": "E20057",
@@ -795,7 +851,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 6.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100074"
   },
   {
     "eventId": "E20058",
@@ -809,7 +866,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 33.16,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100074"
   },
   {
     "eventId": "E20059",
@@ -823,7 +881,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 5.15,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100077"
   },
   {
     "eventId": "E20060",
@@ -837,7 +896,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.85,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100077"
   },
   {
     "eventId": "E20061",
@@ -851,7 +911,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 7.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100080"
   },
   {
     "eventId": "E20062",
@@ -865,7 +926,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 17.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100080"
   },
   {
     "eventId": "E20063",
@@ -879,7 +941,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 7.62,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100083"
   },
   {
     "eventId": "E20064",
@@ -893,7 +956,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 17.38,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100083"
   },
   {
     "eventId": "E20065",
@@ -907,7 +971,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 19.72,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100086"
   },
   {
     "eventId": "E20066",
@@ -921,7 +986,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 9.44,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100086"
   },
   {
     "eventId": "E20067",
@@ -935,7 +1001,8 @@
     "billedDate": "2026-06-30",
     "description": "Mobile data/voice usage",
     "amount": 30.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100086"
   },
   {
     "eventId": "E20068",
@@ -949,7 +1016,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 8.52,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100089"
   },
   {
     "eventId": "E20069",
@@ -963,7 +1031,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 5.6,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100089"
   },
   {
     "eventId": "E20070",
@@ -977,7 +1046,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.88,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100089"
   },
   {
     "eventId": "E20071",
@@ -991,7 +1061,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 8.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100089"
   },
   {
     "eventId": "E20072",
@@ -1005,7 +1076,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 40.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100092"
   },
   {
     "eventId": "E20073",
@@ -1019,7 +1091,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 9.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100095"
   },
   {
     "eventId": "E20074",
@@ -1033,7 +1106,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 30.46,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100095"
   },
   {
     "eventId": "E20075",
@@ -1047,7 +1121,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 4.18,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100098"
   },
   {
     "eventId": "E20076",
@@ -1061,7 +1136,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 3.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100098"
   },
   {
     "eventId": "E20077",
@@ -1075,7 +1151,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 5.59,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100098"
   },
   {
     "eventId": "E20078",
@@ -1089,7 +1166,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 12.1,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100098"
   },
   {
     "eventId": "E20079",
@@ -1103,7 +1181,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 4.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100101"
   },
   {
     "eventId": "E20080",
@@ -1117,7 +1196,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 20.26,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100101"
   },
   {
     "eventId": "E20081",
@@ -1131,7 +1211,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 9.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100104"
   },
   {
     "eventId": "E20082",
@@ -1145,7 +1226,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 30.71,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100104"
   },
   {
     "eventId": "E20083",
@@ -1159,7 +1241,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 8.09,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100107"
   },
   {
     "eventId": "E20084",
@@ -1173,7 +1256,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 31.91,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100107"
   },
   {
     "eventId": "E20085",
@@ -1187,7 +1271,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 15.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100110"
   },
   {
     "eventId": "E20086",
@@ -1201,7 +1286,8 @@
     "billedDate": "2026-07-31",
     "description": "International roaming event",
     "amount": 109.22,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100111"
   },
   {
     "eventId": "E20087",
@@ -1215,7 +1301,8 @@
     "billedDate": "2026-07-31",
     "description": "International roaming event",
     "amount": 52.68,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100111"
   },
   {
     "eventId": "E20088",
@@ -1229,7 +1316,8 @@
     "billedDate": "2026-07-31",
     "description": "International roaming event",
     "amount": 88.1,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100111"
   },
   {
     "eventId": "E20089",
@@ -1243,7 +1331,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 25.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100116"
   },
   {
     "eventId": "E20090",
@@ -1257,7 +1346,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 6.86,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100119"
   },
   {
     "eventId": "E20091",
@@ -1271,7 +1361,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 18.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100119"
   },
   {
     "eventId": "E20092",
@@ -1285,7 +1376,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.75,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100124"
   },
   {
     "eventId": "E20093",
@@ -1299,7 +1391,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.8,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100124"
   },
   {
     "eventId": "E20094",
@@ -1313,7 +1406,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 5.45,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100124"
   },
   {
     "eventId": "E20095",
@@ -1327,7 +1421,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 19.47,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100127"
   },
   {
     "eventId": "E20096",
@@ -1341,7 +1436,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.8,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100127"
   },
   {
     "eventId": "E20097",
@@ -1355,7 +1451,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 29.73,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100127"
   },
   {
     "eventId": "E20098",
@@ -1369,7 +1466,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 8.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100130"
   },
   {
     "eventId": "E20099",
@@ -1383,7 +1481,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 8.42,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100130"
   },
   {
     "eventId": "E20100",
@@ -1397,7 +1496,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 23.45,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100130"
   },
   {
     "eventId": "E20101",
@@ -1411,7 +1511,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.01,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100133"
   },
   {
     "eventId": "E20102",
@@ -1425,7 +1526,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 29.99,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100133"
   },
   {
     "eventId": "E20103",
@@ -1439,7 +1541,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100136"
   },
   {
     "eventId": "E20104",
@@ -1453,7 +1556,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 7.21,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100139"
   },
   {
     "eventId": "E20105",
@@ -1467,7 +1571,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 6.28,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100139"
   },
   {
     "eventId": "E20106",
@@ -1481,7 +1586,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 26.51,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100139"
   },
   {
     "eventId": "E20107",
@@ -1495,7 +1601,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 14.53,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100142"
   },
   {
     "eventId": "E20108",
@@ -1509,7 +1616,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 45.47,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100142"
   },
   {
     "eventId": "E20109",
@@ -1523,7 +1631,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 20.19,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100145"
   },
   {
     "eventId": "E20110",
@@ -1537,7 +1646,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 39.81,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100145"
   },
   {
     "eventId": "E20111",
@@ -1551,7 +1661,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 4.55,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100148"
   },
   {
     "eventId": "E20112",
@@ -1565,7 +1676,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.16,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100148"
   },
   {
     "eventId": "E20113",
@@ -1579,7 +1691,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.27,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100148"
   },
   {
     "eventId": "E20114",
@@ -1593,7 +1706,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 7.02,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100148"
   },
   {
     "eventId": "E20115",
@@ -1607,7 +1721,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 0.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100151"
   },
   {
     "eventId": "E20116",
@@ -1621,7 +1736,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.05,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100151"
   },
   {
     "eventId": "E20117",
@@ -1635,7 +1751,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 0.78,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100151"
   },
   {
     "eventId": "E20118",
@@ -1649,7 +1766,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.25,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100151"
   },
   {
     "eventId": "E20119",
@@ -1663,7 +1781,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 3.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100154"
   },
   {
     "eventId": "E20120",
@@ -1677,7 +1796,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.35,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100154"
   },
   {
     "eventId": "E20121",
@@ -1691,7 +1811,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 4.51,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100154"
   },
   {
     "eventId": "E20122",
@@ -1705,7 +1826,8 @@
     "billedDate": "2026-07-31",
     "description": "International roaming event",
     "amount": 43.51,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100155"
   },
   {
     "eventId": "E20123",
@@ -1719,7 +1841,8 @@
     "billedDate": "2026-07-31",
     "description": "International roaming event",
     "amount": 81.49,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100155"
   },
   {
     "eventId": "E20124",
@@ -1733,7 +1856,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.32,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100158"
   },
   {
     "eventId": "E20125",
@@ -1747,7 +1871,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.2,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100158"
   },
   {
     "eventId": "E20126",
@@ -1761,7 +1886,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 0.52,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100158"
   },
   {
     "eventId": "E20127",
@@ -1775,7 +1901,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.96,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100158"
   },
   {
     "eventId": "E20128",
@@ -1789,7 +1916,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 4.99,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100161"
   },
   {
     "eventId": "E20129",
@@ -1803,7 +1931,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.01,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100161"
   },
   {
     "eventId": "E20130",
@@ -1817,7 +1946,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 0.89,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100164"
   },
   {
     "eventId": "E20131",
@@ -1831,7 +1961,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.39,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100164"
   },
   {
     "eventId": "E20132",
@@ -1845,7 +1976,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 2.72,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100164"
   },
   {
     "eventId": "E20133",
@@ -1859,7 +1991,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 11.61,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100167"
   },
   {
     "eventId": "E20134",
@@ -1873,7 +2006,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 5.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100167"
   },
   {
     "eventId": "E20135",
@@ -1887,7 +2021,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 3.72,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100167"
   },
   {
     "eventId": "E20136",
@@ -1901,7 +2036,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 19.11,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100167"
   },
   {
     "eventId": "E20137",
@@ -1915,7 +2051,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100170"
   },
   {
     "eventId": "E20138",
@@ -1929,7 +2066,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 7.98,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100170"
   },
   {
     "eventId": "E20139",
@@ -1943,7 +2081,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 21.73,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100170"
   },
   {
     "eventId": "E20140",
@@ -1957,7 +2096,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 10.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100173"
   },
   {
     "eventId": "E20141",
@@ -1971,7 +2111,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.95,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100176"
   },
   {
     "eventId": "E20142",
@@ -1985,7 +2126,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 1.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100176"
   },
   {
     "eventId": "E20143",
@@ -1999,7 +2141,8 @@
     "billedDate": "2026-07-31",
     "description": "Mobile data/voice usage",
     "amount": 6.31,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100176"
   },
   {
     "eventId": "E20144",
@@ -2013,7 +2156,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 12.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100179"
   },
   {
     "eventId": "E20145",
@@ -2027,7 +2171,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 12.82,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100179"
   },
   {
     "eventId": "E20146",
@@ -2041,7 +2186,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 5.5,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100179"
   },
   {
     "eventId": "E20147",
@@ -2055,7 +2201,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 29.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100179"
   },
   {
     "eventId": "E20148",
@@ -2069,7 +2216,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.66,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100184"
   },
   {
     "eventId": "E20149",
@@ -2083,7 +2231,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 8.34,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100184"
   },
   {
     "eventId": "E20150",
@@ -2097,7 +2246,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 18.09,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100187"
   },
   {
     "eventId": "E20151",
@@ -2111,7 +2261,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 7.86,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100187"
   },
   {
     "eventId": "E20152",
@@ -2125,7 +2276,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 11.03,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100187"
   },
   {
     "eventId": "E20153",
@@ -2139,7 +2291,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 23.02,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100187"
   },
   {
     "eventId": "E20154",
@@ -2153,7 +2306,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 10.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100190"
   },
   {
     "eventId": "E20155",
@@ -2167,7 +2321,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.61,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100193"
   },
   {
     "eventId": "E20156",
@@ -2181,7 +2336,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 14.6,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100193"
   },
   {
     "eventId": "E20157",
@@ -2195,7 +2351,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 5.23,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100193"
   },
   {
     "eventId": "E20158",
@@ -2209,7 +2366,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 24.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100193"
   },
   {
     "eventId": "E20159",
@@ -2223,7 +2381,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.21,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100196"
   },
   {
     "eventId": "E20160",
@@ -2237,7 +2396,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.3,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100196"
   },
   {
     "eventId": "E20161",
@@ -2251,7 +2411,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 0.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100196"
   },
   {
     "eventId": "E20162",
@@ -2265,7 +2426,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.65,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100196"
   },
   {
     "eventId": "E20163",
@@ -2279,7 +2441,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 40.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100199"
   },
   {
     "eventId": "E20164",
@@ -2293,7 +2456,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 4.46,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100202"
   },
   {
     "eventId": "E20165",
@@ -2307,7 +2471,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 5.21,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100202"
   },
   {
     "eventId": "E20166",
@@ -2321,7 +2486,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.33,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100202"
   },
   {
     "eventId": "E20167",
@@ -2335,7 +2501,8 @@
     "billedDate": "2026-08-31",
     "description": "International roaming event",
     "amount": 140.87,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100203"
   },
   {
     "eventId": "E20168",
@@ -2349,7 +2516,8 @@
     "billedDate": "2026-08-31",
     "description": "International roaming event",
     "amount": 309.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100203"
   },
   {
     "eventId": "E20169",
@@ -2363,7 +2531,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 14.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100206"
   },
   {
     "eventId": "E20170",
@@ -2377,7 +2546,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 45.71,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100206"
   },
   {
     "eventId": "E20171",
@@ -2391,7 +2561,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100211"
   },
   {
     "eventId": "E20172",
@@ -2405,7 +2576,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100214"
   },
   {
     "eventId": "E20173",
@@ -2419,7 +2591,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 13.19,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100217"
   },
   {
     "eventId": "E20174",
@@ -2433,7 +2606,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 4.94,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100217"
   },
   {
     "eventId": "E20175",
@@ -2447,7 +2621,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 21.87,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100217"
   },
   {
     "eventId": "E20176",
@@ -2461,7 +2636,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 25.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100220"
   },
   {
     "eventId": "E20177",
@@ -2475,7 +2651,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 6.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100223"
   },
   {
     "eventId": "E20178",
@@ -2489,7 +2666,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.8,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100223"
   },
   {
     "eventId": "E20179",
@@ -2503,7 +2681,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.06,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100223"
   },
   {
     "eventId": "E20180",
@@ -2517,7 +2696,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 7.47,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100226"
   },
   {
     "eventId": "E20181",
@@ -2531,7 +2711,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 6.38,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100226"
   },
   {
     "eventId": "E20182",
@@ -2545,7 +2726,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 4.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100226"
   },
   {
     "eventId": "E20183",
@@ -2559,7 +2741,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 21.59,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100226"
   },
   {
     "eventId": "E20184",
@@ -2573,7 +2756,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 17.24,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100229"
   },
   {
     "eventId": "E20185",
@@ -2587,7 +2771,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 6.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100229"
   },
   {
     "eventId": "E20186",
@@ -2601,7 +2786,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 35.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100229"
   },
   {
     "eventId": "E20187",
@@ -2615,7 +2801,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 4.71,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100232"
   },
   {
     "eventId": "E20188",
@@ -2629,7 +2816,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 10.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100232"
   },
   {
     "eventId": "E20189",
@@ -2643,7 +2831,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 9.38,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100235"
   },
   {
     "eventId": "E20190",
@@ -2657,7 +2846,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 30.62,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100235"
   },
   {
     "eventId": "E20191",
@@ -2671,7 +2861,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.16,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100240"
   },
   {
     "eventId": "E20192",
@@ -2685,7 +2876,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.63,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100240"
   },
   {
     "eventId": "E20193",
@@ -2699,7 +2891,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 2.22,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100240"
   },
   {
     "eventId": "E20194",
@@ -2713,7 +2906,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 5.99,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100240"
   },
   {
     "eventId": "E20195",
@@ -2727,7 +2921,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.26,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100243"
   },
   {
     "eventId": "E20196",
@@ -2741,7 +2936,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100243"
   },
   {
     "eventId": "E20197",
@@ -2755,7 +2951,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.64,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100246"
   },
   {
     "eventId": "E20198",
@@ -2769,7 +2966,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 11.36,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100246"
   },
   {
     "eventId": "E20199",
@@ -2783,7 +2981,8 @@
     "billedDate": "2026-08-31",
     "description": "International roaming event",
     "amount": 431.31,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100247"
   },
   {
     "eventId": "E20200",
@@ -2797,7 +2996,8 @@
     "billedDate": "2026-08-31",
     "description": "International roaming event",
     "amount": 818.69,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100247"
   },
   {
     "eventId": "E20201",
@@ -2811,7 +3011,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.22,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100252"
   },
   {
     "eventId": "E20202",
@@ -2825,7 +3026,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 3.78,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100252"
   },
   {
     "eventId": "E20203",
@@ -2839,7 +3041,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 1.33,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100255"
   },
   {
     "eventId": "E20204",
@@ -2853,7 +3056,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 0.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100255"
   },
   {
     "eventId": "E20205",
@@ -2867,7 +3071,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 0.75,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100255"
   },
   {
     "eventId": "E20206",
@@ -2881,7 +3086,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 2.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100255"
   },
   {
     "eventId": "E20207",
@@ -2895,7 +3101,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 15.42,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100258"
   },
   {
     "eventId": "E20208",
@@ -2909,7 +3116,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 11.66,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100258"
   },
   {
     "eventId": "E20209",
@@ -2923,7 +3131,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 32.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100258"
   },
   {
     "eventId": "E20210",
@@ -2937,7 +3146,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 2.37,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100261"
   },
   {
     "eventId": "E20211",
@@ -2951,7 +3161,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 2.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100261"
   },
   {
     "eventId": "E20212",
@@ -2965,7 +3176,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 10.34,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100261"
   },
   {
     "eventId": "E20213",
@@ -2979,7 +3191,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 13.48,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100264"
   },
   {
     "eventId": "E20214",
@@ -2993,7 +3206,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 8.87,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100264"
   },
   {
     "eventId": "E20215",
@@ -3007,7 +3221,8 @@
     "billedDate": "2026-08-31",
     "description": "Mobile data/voice usage",
     "amount": 37.65,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100264"
   },
   {
     "eventId": "E20216",
@@ -3021,7 +3236,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 1.3,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100267"
   },
   {
     "eventId": "E20217",
@@ -3035,7 +3251,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.7,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100267"
   },
   {
     "eventId": "E20218",
@@ -3049,7 +3266,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.21,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100270"
   },
   {
     "eventId": "E20219",
@@ -3063,7 +3281,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.1,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100270"
   },
   {
     "eventId": "E20220",
@@ -3077,7 +3296,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.69,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100270"
   },
   {
     "eventId": "E20221",
@@ -3091,7 +3311,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 4.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100273"
   },
   {
     "eventId": "E20222",
@@ -3105,7 +3326,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 20.86,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100273"
   },
   {
     "eventId": "E20223",
@@ -3119,7 +3341,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.46,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100276"
   },
   {
     "eventId": "E20224",
@@ -3133,7 +3356,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 31.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100276"
   },
   {
     "eventId": "E20225",
@@ -3147,7 +3371,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 15.84,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100279"
   },
   {
     "eventId": "E20226",
@@ -3161,7 +3386,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.14,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100279"
   },
   {
     "eventId": "E20227",
@@ -3175,7 +3401,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 36.02,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100279"
   },
   {
     "eventId": "E20228",
@@ -3189,7 +3416,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 4.21,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100282"
   },
   {
     "eventId": "E20229",
@@ -3203,7 +3431,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 4.06,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100282"
   },
   {
     "eventId": "E20230",
@@ -3217,7 +3446,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 16.73,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100282"
   },
   {
     "eventId": "E20231",
@@ -3231,7 +3461,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 13.32,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100285"
   },
   {
     "eventId": "E20232",
@@ -3245,7 +3476,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 14.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100285"
   },
   {
     "eventId": "E20233",
@@ -3259,7 +3491,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 10.86,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100285"
   },
   {
     "eventId": "E20234",
@@ -3273,7 +3506,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 21.08,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100285"
   },
   {
     "eventId": "E20235",
@@ -3287,7 +3521,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 1.31,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100288"
   },
   {
     "eventId": "E20236",
@@ -3301,7 +3536,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.69,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100288"
   },
   {
     "eventId": "E20237",
@@ -3315,7 +3551,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.33,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100291"
   },
   {
     "eventId": "E20238",
@@ -3329,7 +3566,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.05,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100291"
   },
   {
     "eventId": "E20239",
@@ -3343,7 +3581,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.56,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100291"
   },
   {
     "eventId": "E20240",
@@ -3357,7 +3596,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 10.06,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100291"
   },
   {
     "eventId": "E20241",
@@ -3371,7 +3611,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 17.94,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100294"
   },
   {
     "eventId": "E20242",
@@ -3385,7 +3626,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 11.95,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100294"
   },
   {
     "eventId": "E20243",
@@ -3399,7 +3641,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 6.69,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100294"
   },
   {
     "eventId": "E20244",
@@ -3413,7 +3656,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 23.42,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100294"
   },
   {
     "eventId": "E20245",
@@ -3427,7 +3671,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.61,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100297"
   },
   {
     "eventId": "E20246",
@@ -3441,7 +3686,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 7.39,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100297"
   },
   {
     "eventId": "E20247",
@@ -3455,7 +3701,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 9.57,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100300"
   },
   {
     "eventId": "E20248",
@@ -3469,7 +3716,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 4.75,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100300"
   },
   {
     "eventId": "E20249",
@@ -3483,7 +3731,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 25.68,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100300"
   },
   {
     "eventId": "E20250",
@@ -3497,7 +3746,8 @@
     "billedDate": "2026-09-30",
     "description": "International roaming event",
     "amount": 55.71,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100301"
   },
   {
     "eventId": "E20251",
@@ -3511,7 +3761,8 @@
     "billedDate": "2026-09-30",
     "description": "International roaming event",
     "amount": 69.29,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100301"
   },
   {
     "eventId": "E20252",
@@ -3525,7 +3776,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.43,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100304"
   },
   {
     "eventId": "E20253",
@@ -3539,7 +3791,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.16,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100304"
   },
   {
     "eventId": "E20254",
@@ -3553,7 +3806,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 1.72,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100304"
   },
   {
     "eventId": "E20255",
@@ -3567,7 +3821,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 9.69,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100304"
   },
   {
     "eventId": "E20256",
@@ -3581,7 +3836,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 1.65,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100307"
   },
   {
     "eventId": "E20257",
@@ -3595,7 +3851,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.35,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100307"
   },
   {
     "eventId": "E20258",
@@ -3609,7 +3866,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100310"
   },
   {
     "eventId": "E20259",
@@ -3623,7 +3881,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.8,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100313"
   },
   {
     "eventId": "E20260",
@@ -3637,7 +3896,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.11,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100313"
   },
   {
     "eventId": "E20261",
@@ -3651,7 +3911,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.09,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100313"
   },
   {
     "eventId": "E20262",
@@ -3665,7 +3926,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 9.45,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100316"
   },
   {
     "eventId": "E20263",
@@ -3679,7 +3941,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 50.55,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100316"
   },
   {
     "eventId": "E20264",
@@ -3693,7 +3956,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.7,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100319"
   },
   {
     "eventId": "E20265",
@@ -3707,7 +3971,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.05,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100319"
   },
   {
     "eventId": "E20266",
@@ -3721,7 +3986,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 14.25,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100319"
   },
   {
     "eventId": "E20267",
@@ -3735,7 +4001,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.45,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100322"
   },
   {
     "eventId": "E20268",
@@ -3749,7 +4016,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 7.55,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100322"
   },
   {
     "eventId": "E20269",
@@ -3763,7 +4031,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.41,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100325"
   },
   {
     "eventId": "E20270",
@@ -3777,7 +4046,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 3.42,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100325"
   },
   {
     "eventId": "E20271",
@@ -3791,7 +4061,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.17,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100325"
   },
   {
     "eventId": "E20272",
@@ -3805,7 +4076,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 25.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100328"
   },
   {
     "eventId": "E20273",
@@ -3819,7 +4091,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 13.4,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100331"
   },
   {
     "eventId": "E20274",
@@ -3833,7 +4106,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 7.68,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100331"
   },
   {
     "eventId": "E20275",
@@ -3847,7 +4121,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 18.92,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100331"
   },
   {
     "eventId": "E20276",
@@ -3861,7 +4136,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 12.33,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100334"
   },
   {
     "eventId": "E20277",
@@ -3875,7 +4151,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 8.54,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100334"
   },
   {
     "eventId": "E20278",
@@ -3889,7 +4166,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 39.13,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100334"
   },
   {
     "eventId": "E20279",
@@ -3903,7 +4181,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100337"
   },
   {
     "eventId": "E20280",
@@ -3917,7 +4196,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 40.0,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100344"
   },
   {
     "eventId": "E20281",
@@ -3931,7 +4211,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 1.81,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100351"
   },
   {
     "eventId": "E20282",
@@ -3945,7 +4226,8 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 2.45,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100351"
   },
   {
     "eventId": "E20283",
@@ -3959,6 +4241,7 @@
     "billedDate": "2026-09-30",
     "description": "Mobile data/voice usage",
     "amount": 5.74,
-    "currency": "USD"
+    "currency": "USD",
+    "billItemId": "BI100351"
   }
 ]
