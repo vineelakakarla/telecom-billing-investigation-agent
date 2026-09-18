@@ -5,7 +5,7 @@ from openai import OpenAI
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 KNOWLEDGE_DIR = Path(__file__).parent.parent / "knowledge"
-VECTOR_STORE_ID = "vs_6a9e87674fb4819181ce5a86d8fb610a"
+VECTOR_STORE_ID = os.getenv("VECTOR_STORE_ID")
 
 existing_files = set()
 

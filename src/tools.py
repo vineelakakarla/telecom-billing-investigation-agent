@@ -1,4 +1,4 @@
-import json
+import os
 
 from billing_data_tool import (
     get_customer_details,
@@ -8,7 +8,7 @@ from billing_data_tool import (
     get_customer_billing_information,
 )
 
-VECTOR_STORE_ID = 'vs_6a9e87674fb4819181ce5a86d8fb610a'
+VECTOR_STORE_ID = os.getenv("VECTOR_STORE_ID")
 
 TOOLS = [
     {

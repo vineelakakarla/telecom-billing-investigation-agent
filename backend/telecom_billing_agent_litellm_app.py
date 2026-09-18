@@ -1,7 +1,7 @@
 import json
 
 from .llm_router import router
-from .tools import TOOLS, execute_tool
+from .tools import LITELLM_TOOLS, execute_tool
 from .prompts import BILLING_AGENT_INSTRUCTIONS
 
 
@@ -25,47 +25,36 @@ def investigate_billing(user_input: str) -> str:
     # Initial LLM request
     response = router.completion(
         model="telecom-agent",
-        messages=messages
+        messages=messages,
+        tools = LITELLM_TOOLS
     )
-    return response.choices[0].message.content
+    while response.choices[0].message.tool_calls:
 
-    """# Tool-calling loop
-    while True:
+        assistant_message = response.choices[0].message
 
-        message = response.choices[0].message
+        messages.append({
+            "role": "assistant",
+            "content": assistant_message.content,
+            "tool_calls": assistant_message.tool_calls
+        })
 
-        # Model has completed the investigation
-        if not message.tool_calls:
-            return message.content
-
-        # Add assistant tool-call message
-        messages.append(
-            message.model_dump(exclude_none=True)
-        )
-
-        # Execute requested tools
-        for tool_call in message.tool_calls:
-
-            arguments = json.loads(
-                tool_call.function.arguments
-            )
+        for tool_call in assistant_message.tool_calls:
 
             result = execute_tool(
                 tool_call.function.name,
-                arguments
+                json.loads(tool_call.function.arguments)
             )
 
-            # Add tool result to conversation
-            messages.append(
-                {
-                    "role": "tool",
-                    "tool_call_id": tool_call.id,
-                    "content": json.dumps(result)
-                }
-            )
+            messages.append({
+                "role": "tool",
+                "tool_call_id": tool_call.id,
+                "content": json.dumps(result)
+            })
 
-        # Send tool results back to the LLM
         response = router.completion(
             model="telecom-agent",
-            messages=messages
-        )"""
+            messages=messages,
+            tools=LITELLM_TOOLS
+        )
+
+    return response.choices[0].message.content

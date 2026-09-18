@@ -1,10 +1,11 @@
 import streamlit as st
 from openai import OpenAI
 from uuid import uuid4
+import os
 
 client = OpenAI()
 
-VECTOR_STORE_ID = 'vs_6a9e87674fb4819181ce5a86d8fb610a'
+VECTOR_STORE_ID = os.getenv("VECTOR_STORE_ID")
 
 st.title("Telecom Billing Agent")
 
@@ -60,7 +61,7 @@ if user_input:
         active_chat["title"] = user_input[:20] + "..." if len(user_input) > 20 else user_input
     active_chat["messages"].append({"role":"user", "content": user_input})
     with st.chat_message("user"):
-            st.write(user_input)
+            st.markdown(user_input)
 
     response = client.responses.create(
          model='gpt-5.6-luna', 
@@ -72,6 +73,6 @@ if user_input:
         }])
     active_chat["messages"].append({"role":"assistant", "content": response.output_text})
     with st.chat_message("assistant"):
-        st.write(response.output_text)
+        st.markdown(response.output_text)
     
     

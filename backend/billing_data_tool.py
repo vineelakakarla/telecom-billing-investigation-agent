@@ -1,5 +1,10 @@
 import json
 from pathlib import Path
+import os
+from openai import OpenAI
+
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+VECTOR_STORE_ID = os.getenv("VECTOR_STORE_ID")
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -179,11 +184,26 @@ def get_customer_billing_information(customer_id):
         "accounts": account_information
     }
 
+def search_billing_knowledge(query: str):
+    try:
+        response = client.vector_stores.search(
+            vector_store_id=VECTOR_STORE_ID,
+            query=query
+        )
 
-if __name__ == "__main__":
-    customer_id = input("Enter Customer ID: ")
+        return {
+            "files": [r.filename for r in response.data],
+            "results": [
+                item.text
+                for r in response.data
+                for item in r.content
+                if hasattr(item, "text")
+            ]
+        }
 
-    result = get_customer_billing_information(customer_id)
-
-    print("\nCustomer Information:")
-    print(json.dumps(result, indent=2))
+    except Exception as e:
+        return {
+            "files": [],
+            "results": [],
+            "error": str(e)
+        }

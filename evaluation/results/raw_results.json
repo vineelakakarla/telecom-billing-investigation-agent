@@ -1,0 +1,111 @@
+{
+  "executionTimestamp": "2026-09-18T06:42:38.652475",
+  "totalScenarios": 15,
+  "results": [
+    {
+      "scenarioId": "SC001",
+      "status": "SUCCESS",
+      "complaint": "Why is my bill higher this month?",
+      "actualResponse": "Your bill **B10008** is higher because of substantial **international roaming charges** during the June 2026 billing period.\n\n### Bill breakdown\n\n- Monthly subscription: **$15.00**\n- Domestic usage: **$0.00**\n- International roaming: **$1,250.00**\n  - May 17 roaming event: **$558.30**\n  - May 27 roaming event: **$691.70**\n- Taxes: **$101.20**\n- **Total bill: $1,366.20**\n\nThe roaming events occurred in May, were rated on June 2, and were billed on June 30. This timing caused them to appear on bill **B10008**.\n\nFor comparison, the next available bill for this account, **B10038**, included **$250.00** in roaming charges and totaled **$302.40**. Therefore, the unusual increase is primarily due to the additional **$1,250.00** in roaming charges, with the higher taxes resulting from those charges.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC002",
+      "status": "SUCCESS",
+      "complaint": "My bill is higher than usual. Did I use more data this month?",
+      "actualResponse": "Your bill **B10001** is for **June 2026** and totals **$113.40**:\n\n- Monthly subscription: **$65.00**\n- Data and voice usage charges: **$40.00**\n- Taxes: **$8.40**\n- Roaming: **$0.00**\n\nThe available billing records show these usage-charge amounts:\n\n- June: **$40.00**\n- July: **$25.00**\n- August: **$60.00**\n- September: **$5.00**\n\nSo, June usage charges were higher than July and September, but lower than August. However, the bill records combine **data and voice usage** and do not show the actual amount of data used in gigabytes. Therefore, I cannot confirm that you used more data specifically.\n\nThe higher bill appears to be mainly due to the **$40.00 combined usage charge**, rather than roaming or a change in the **$65.00 monthly subscription**.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC003",
+      "status": "SUCCESS",
+      "complaint": "I was charged for a service I recently added. Why did my bill increase?",
+      "actualResponse": "Your bill increased to **$108.00** for billing period **June 2026**. The increase is explained by usage charges rather than a separate newly added service.\n\n### Bill breakdown\n\n- **Monthly subscription:** $85.00\n- **Data and voice usage:** $15.00\n- **Taxes:** $8.00\n- **Total:** **$108.00**\n\nThe $15.00 usage charge consists of four billed usage events:\n\n- $4.56\n- $2.95\n- $1.76\n- $5.73\n\nThese add up to **$15.00**.\n\n### Service review\n\n- The bill contains no separate add-on or activation charge.\n- The **Entertainment TV Pack** is inactive and has no billed items.\n- The **Cloud Storage 100GB** service is active, but no bill has been generated for it in the available records.\n\nTherefore, based on bill **B10002**, the likely reason for the increase is **$15.00 in data and voice usage, plus the associated $8.00 in taxes**, rather than a charge for the recently added service.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC004",
+      "status": "SUCCESS",
+      "complaint": "My discount is no longer showing on my bill. What happened?",
+      "actualResponse": "## Billing review for Bill B10003\n\nYour June 2026 bill does not include a discount or credit line.\n\n- Monthly subscription charge: **$100.00**\n- Usage charges: **$15.00**\n- Taxes: **$9.20**\n- Total: **$124.20**\n- Bill status: **Final**\n\nThe product’s listed monthly charge is also **$100.00**, and the subscription bill item shows the full amount. The related billing events contain usage charges only; there is no discount event or adjustment recorded for this bill.\n\nI also reviewed the available bills for this product in July, August, and September. They likewise show the full **$100.00** subscription charge without a discount line.\n\nThe available billing data does not identify the specific reason the discount stopped appearing. It may have expired, been removed, or no longer met its eligibility conditions, but there is no recorded event confirming which occurred. Your account and product are both still active.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC005",
+      "status": "SUCCESS",
+      "complaint": "There is an extra charge on my bill that I was not expecting.",
+      "actualResponse": "## Bill investigation: B10004\n\nThe bill for **June 2026** totals **$81.00 USD**:\n\n- **Monthly subscription:** $60.00\n- **Data and voice usage:** $15.00\n- **Taxes:** $6.00\n- **Roaming:** $0.00\n\n### Likely extra charge\n\nThe unexpected charge appears to be the **$15.00 usage charge**. It consists of three recorded usage events:\n\n- June 8: $9.53\n- June 12: $2.49\n- June 24: $2.98\n\nThese add up to **$15.00**.\n\nBecause the usage charge increased the taxable amount, the bill also includes **$6.00 in applicable taxes**. Therefore, compared with the **$60.00 monthly subscription**, the total additional amount is **$21.00**, resulting in the final total of **$81.00**.\n\nThere is **no roaming charge or separate unexplained fee** listed on this bill.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC006",
+      "status": "SUCCESS",
+      "complaint": "Why did the tax amount on my bill increase?",
+      "actualResponse": "For bill **B10005** for **June 2026**, the tax amount is **$10.00**.\n\nThe increase appears to be driven by the additional **$15.00 in usage charges**, not by a higher subscription price:\n\n- Monthly subscription: **$110.00**\n- Usage charges: **$15.00**\n- Taxable charges: **$125.00**\n- Tax: **$10.00**, which is consistent with an **8% tax rate**\n- Roaming charges: **$0.00**\n\nThe subscription charge remained at **$110.00**, but the bill included three usage events totaling **$15.00**. Based on the other available bills, taxes are consistently calculated at approximately **8% of the subscription plus usage charges**:\n\n- July: **$10.80** tax on **$135.00**\n- August: **$9.60** tax on **$120.00**\n- September: **$13.60** tax on **$170.00**\n\nTherefore, the tax amount increased when taxable usage charges increased. There is no indication in the billing data of a tax-rate change or roaming-related tax.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC007",
+      "status": "SUCCESS",
+      "complaint": "I think I have been charged twice for the same service.",
+      "actualResponse": "## Billing investigation\n\nI reviewed customer **C1004**, account **A1008**, and bill **B10006**.\n\nI do **not** see evidence that the same service was charged twice on bill **B10006**:\n\n- **Subscription charge:** $25.00 — one monthly charge for the International Roaming Pack\n- **Usage charges:** $60.00 — supported by usage event **E20016**\n- **Taxes:** $6.80\n- **Total:** **$91.80**\n\nThe customer’s billing history shows one bill for this service in each month:\n\n- **June 2026:** B10006 — $91.80\n- **July 2026:** B10036 — $70.20\n- **August 2026:** B10066 — $91.80\n- **September 2026:** B10096 — $54.00\n\nThe two bills totaling **$91.80** are for different billing periods, June and August. Although their totals match, the usage records are different:\n\n- June includes one usage event totaling $60.00.\n- August includes four separate usage events totaling $60.00.\n\n### Conclusion\n\nBased on the billing records, this appears to be **separate monthly billing rather than a duplicate charge**. There is only one subscription charge on bill **B10006**. If your payment statement shows two actual payments of $91.80 for the same bill, please provide the payment dates or transaction references, because the billing data alone does not show duplicate payment activity.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC008",
+      "status": "SUCCESS",
+      "complaint": "My bill looks higher, but I want to know if the charges are actually correct.",
+      "actualResponse": "## Bill review for B10007\n\nThe charges on this bill are mathematically consistent with the recorded bill items.\n\n### Charge breakdown\n\n- Monthly subscription: **$20.00**\n- Data and voice usage: **$40.00**\n  - Usage event E20017: **$9.92**\n  - Usage event E20018: **$30.08**\n  - Usage events total: **$40.00**\n- Roaming: **$0.00**\n- Taxes: **$4.80**\n- **Total: $64.80**\n\nThe calculation is:\n\n- Pre-tax charges: **$20.00 + $40.00 = $60.00**\n- Taxes: **$4.80**\n- Final total: **$60.00 + $4.80 = $64.80**\n\n## Why the bill may look higher\n\nThe main reason is the **$40.00 usage charge**. The monthly subscription itself is only **$20.00**, so usage accounts for most of the bill before taxes.\n\nFor comparison, the same product had these recent totals:\n\n- June 2026, bill B10007: **$64.80**\n- July 2026, bill B10037: **$64.80**\n- August 2026, bill B10067: **$27.00**\n- September 2026, bill B10097: **$86.40**\n\nTherefore, **$64.80 is higher than the August bill**, but it is lower than the September bill and matches the July bill.\n\n## Conclusion\n\nThere is no arithmetic or itemization discrepancy in bill **B10007**. The usage events are linked to the bill and add up exactly to the stated **$40.00** usage charge. The bill is marked **FINAL**.\n\nThe available records confirm that the charges were billed consistently, but they do not show the underlying data or voice quantities. If you do not recognize either usage event, especially the **$30.08 charge on June 21**, that specific usage should be disputed or investigated further.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC009",
+      "status": "SUCCESS",
+      "complaint": "My bill increased significantly. Can you identify everything that caused the increase?",
+      "actualResponse": "## Billing investigation for Bill B10008\n\nThe bill for **Account A1010** and **Premium Voice Pack P10010** covers **June 2026**. The total is **$1,366.20**.\n\n### Charges on the bill\n\n| Charge type | Amount | Effect on increase |\n|---|---:|---|\n| Monthly subscription | $15.00 | Regular recurring charge |\n| International roaming | $1,250.00 | Primary cause of the increase |\n| Usage charges | $0.00 | Did not contribute |\n| Taxes | $101.20 | Increased because of the roaming charge |\n| **Total** | **$1,366.20** |  |\n\n### Roaming charges identified\n\nThe **$1,250.00** roaming charge consists of two international roaming events:\n\n- **May 17, 2026:** $558.30\n- **May 27, 2026:** $691.70\n\nAlthough the events occurred in May, they were rated on **June 2** and billed on the **June 30** bill. This timing explains why the charges appeared on Bill B10008.\n\n### What caused the significant increase\n\n- **International roaming:** $1,250.00, representing approximately **91% of the pre-tax bill total**.\n- **Taxes:** $101.20, which are substantially higher than the regular subscription-related tax because they were applied to the roaming charge.\n- The normal monthly subscription was only **$15.00**.\n- There were **no domestic or other usage charges** on this bill.\n- No separate add-on charges appear on Bill B10008.\n\nFor comparison, the next available bill for this account, July 2026, was **$302.40**, including **$250.00** in roaming charges. The August and September bills were **$59.40** and **$21.60**, respectively. This confirms that roaming activity, rather than a subscription price change, drove the unusually high amount.",
+      "error": null
+    },
+    {
+      "scenarioId": "SC010",
+      "status": "ERROR",
+      "complaint": "Why is my bill higher? I do not have any other information.",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    },
+    {
+      "scenarioId": "SC011",
+      "status": "ERROR",
+      "complaint": "Why am I seeing roaming charges on my bill?",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    },
+    {
+      "scenarioId": "SC012",
+      "status": "ERROR",
+      "complaint": "Can you compare this bill with my previous bill and tell me what changed?",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    },
+    {
+      "scenarioId": "SC013",
+      "status": "ERROR",
+      "complaint": "Why are my usage charges higher than last month?",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    },
+    {
+      "scenarioId": "SC014",
+      "status": "ERROR",
+      "complaint": "I do not recognize one of the charges on my bill.",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    },
+    {
+      "scenarioId": "SC015",
+      "status": "ERROR",
+      "complaint": "This bill seems incorrect and I want someone to verify it.",
+      "actualResponse": null,
+      "error": "500 Server Error: Internal Server Error for url: http://localhost:8000/chat"
+    }
+  ]
+}
